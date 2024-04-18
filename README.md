@@ -33,6 +33,16 @@ Se busca generar un codigo el cual nos permita que ingresemos un PDF y mediante 
   2. Instala las dependencias necesarias con **pip3 install -r requirements.txt**.
   3. Ejecuta el script con el comando **python3 -m uvicorn server:app --reload**.
   4. El resultado de la ejecucion se mostrara en consola o en un archivo de salida especificado.
+
+  [PARA ENTORNOS NO UBUNTU]
+  pip3 install fastapi
+  pip3 install python-multipart
+  pip3 install uvicorn
+  pip3 install pydantic
+  pip3 install opencv-python-headless
+  pip3 install easyocr
+  pip3 install PyMuPDF
+
     
 ## Autores
 
