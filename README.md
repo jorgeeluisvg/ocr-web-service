@@ -35,13 +35,13 @@ Se busca generar un codigo el cual nos permita que ingresemos un PDF y mediante 
   4. El resultado de la ejecucion se mostrara en consola o en un archivo de salida especificado.
 
   [PARA ENTORNOS NO UBUNTU]
-  pip3 install fastapi
-  pip3 install python-multipart
-  pip3 install uvicorn
-  pip3 install pydantic
-  pip3 install opencv-python-headless
-  pip3 install easyocr
-  pip3 install PyMuPDF
+  1. pip3 install fastapi
+  2. pip3 install python-multipart
+  3. pip3 install uvicorn
+  4. pip3 install pydantic
+  5. pip3 install opencv-python-headless
+  6. pip3 install easyocr
+  7. pip3 install PyMuPDF
 
     
 ## Autores
