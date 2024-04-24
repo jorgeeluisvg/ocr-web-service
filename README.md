@@ -19,7 +19,7 @@ Se busca generar un codigo el cual nos permita que ingresemos un PDF y mediante 
 
 **EasyOCR:** Modulo de Phyton utilizado para extraer texto desde imagenes.
 
-**Phyton:** Lenguaje de programación utilizado en el proyecto.
+**Python:** Lenguaje de programación utilizado en el proyecto.
 
 **Pillow:** Utilizado para la manipulación de imagenes en Phyton.
 
@@ -31,7 +31,7 @@ Se busca generar un codigo el cual nos permita que ingresemos un PDF y mediante 
 
   1. Clona el repositorio desde [GitHub](https://github.com/jorgeeluisvg/ocr-web-service).
   2. Instala las dependencias necesarias con **pip3 install -r requirements.txt**.
-  3. Ejecuta el script con el comando **python3 -m uvicorn server:app --reload**.
+  3. Ejecuta el script con el comando **python3 server.py**.
   4. El resultado de la ejecucion se mostrara en consola o en un archivo de salida especificado.
 
   [PARA ENTORNOS NO UBUNTU]
