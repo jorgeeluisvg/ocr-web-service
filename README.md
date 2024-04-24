@@ -43,6 +43,11 @@ Se busca generar un codigo el cual nos permita que ingresemos un PDF y mediante 
   6. pip3 install easyocr
   7. pip3 install PyMuPDF
 
+## USO
+
+En postman hacer un post a http://localhost:8000/extract_text
+y en key poner upload_file
+
     
 ## Autores
 
